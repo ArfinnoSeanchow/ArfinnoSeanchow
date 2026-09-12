@@ -1,241 +1,419 @@
 <div align="center">
 
-# ARFINNO SEANCHOW
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Creative+Builder;JavaScript+%2F+TypeScript+Enthusiast;Building+things+that+shouldn't+exist." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=230&section=header&text=ARFINNO%20SEANCHOW&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20EXPERIMENTER&descSize=14&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&color=161616&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&duration=2200&pause=700&color=111111&center=true&vCenter=true&width=750&lines=Frontend+Developer;Creative+Builder;Full-Stack+Explorer;JavaScript+%2F+TypeScript+Developer;I+build+ideas+into+working+software." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
----
-
-## `01` — WHO AM I?
+<div align="center">
 
 ```text
-Hello, World! 👋
-
-I'm Arfinno Seanchow, a developer from Indonesia.
-
-I like turning random ideas into things that actually work.
-
-My journey started with C++ and Python.
-Now I'm spending most of my time with JavaScript,
-TypeScript, React, Next.js, and the web.
-
-I care about:
-→ clean interfaces
-→ useful products
-→ good interaction
-→ simple architecture
-→ actually shipping things
-
-I learn by building, breaking, debugging,
-and rebuilding until it makes sense.
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│   ARFINNO / 001                                                    │
+│                                                                    │
+│   DESIGNER        DEVELOPER        BUILDER        EXPERIMENTER      │
+│                                                                    │
+│   ──────────●──────────────────────────────────────────────────     │
+│                                                                    │
+│   STATUS  :  BUILDING                                              │
+│   FOCUS   :  WEB / UI / TOOLS                                     │
+│   BASE    :  INDONESIA                                             │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
 ```
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=8B8B8B&center=true&vCenter=true&width=700&lines=Design+%E2%86%92+Code+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Ship;Still+learning.+Still+building.+Still+breaking+things." />
 
 </div>
 
 ---
 
-## `02` — WHAT I BUILD
-
-| AREA          | THINGS I LIKE BUILDING                              |
-| :------------ | :-------------------------------------------------- |
-| 🌐 Web        | Modern websites, dashboards & web applications      |
-| 🎨 UI/UX      | Clean interfaces, interactions & visual systems     |
-| 🛠️ Tools     | Developer tools, calculators & utilities            |
-| 🧪 Education  | Technical & educational web projects                |
-| 🎮 Games      | Small browser games & experiments                   |
-| 🤖 Automation | Discord bots & automation systems                   |
-| 📊 Data       | Data-driven applications & visualizations           |
-| ⚙️ Backend    | APIs, databases, authentication & real-time systems |
-
----
-
-## `03` — STACK
+# `01` / ABOUT
 
 <div align="center">
 
-### LANGUAGES
+### I LIKE BUILDING THINGS.
+
+</div>
+
+I'm **Arfinno Seanchow**, a developer from Indonesia who enjoys turning ideas into working digital products.
+
+I started with **C++ and Python**, then moved deeper into the web with **JavaScript, TypeScript, React, and Next.js**.
+
+My interests sit somewhere between:
+
+`FRONTEND` × `UI/UX` × `TOOLS` × `BACKEND` × `EXPERIMENTS`
+
+I learn mostly by building.
+
+```text
+THINK
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+REBUILD
+  ↓
+SHIP
+```
+
+> I don't need every project to be perfect.
+> I need every project to teach me something.
+
+---
+
+# `02` / WHAT I DO
+
+<div align="center">
+
+|  `01` |  `02`  |     `03`    |    `04`   |
+| :---: | :----: | :---------: | :-------: |
+|  WEB  |  UI/UX |    TOOLS    |  SYSTEMS  |
+|  APPS | DESIGN |  UTILITIES  |    APIs   |
+| GAMES | MOTION | CALCULATORS | DATABASES |
+
+</div>
+
+<br>
+
+```text
+┌─────────────────────┬─────────────────────┬─────────────────────┐
+│                     │                     │                     │
+│       WEB           │        UI           │       TOOLS         │
+│                     │                     │                     │
+│  websites           │  interfaces         │  developer tools    │
+│  dashboards         │  interaction        │  calculators        │
+│  web apps           │  visual systems     │  utilities          │
+│                     │                     │                     │
+├─────────────────────┼─────────────────────┼─────────────────────┤
+│                     │                     │                     │
+│      BACKEND        │      EXPERIMENTS    │       FUN           │
+│                     │                     │                     │
+│  APIs               │  prototypes         │  browser games      │
+│  databases          │  weird ideas        │  Discord bots       │
+│  authentication     │  new technologies   │  random projects    │
+│                     │                     │                     │
+└─────────────────────┴─────────────────────┴─────────────────────┘
+```
+
+---
+
+# `03` / TECH ARSENAL
+
+<div align="center">
+
+### CORE
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql" />
 
 <br><br>
 
-### WEB
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind" />
-
-<br><br>
-
-### DATA / BACKEND
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,prisma,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
 
 <br><br>
 
-### TOOLS
+### BACKEND / DATA
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgres,supabase,sqlite,prisma" />
+
+<br><br>
+
+### TOOLING
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,arduino" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+```text
+C++          ███████████████░░░░░
+Python       ███████████████░░░░░
+JavaScript   █████████████████░░░
+TypeScript   ███████████████░░░░░
+React        ████████████████░░░░
+Next.js      ███████████████░░░░░
+Node.js      █████████████░░░░░░░
+SQL          █████████████░░░░░░░
+```
+
+</div>
+
 ---
 
-## `04` — CURRENTLY BUILDING
+# `04` / CURRENTLY BUILDING
 
-### 🧪 CHEMLY
+<div align="center">
 
-**Interactive chemistry toolkit**
+## 🧪 CHEMLY
 
-> Chemistry shouldn't require doing the same calculation ten times.
+### CHEMISTRY × COMPUTATION × INTERACTION
+
+</div>
 
 [CHEMLY — GitHub Repository](https://github.com/ArfinnoSeanchow/Chem?utm_source=chatgpt.com)
 
-Currently exploring:
+A chemistry platform built around actually **doing the calculations**, not just reading explanations.
 
 ```text
-Oxidation Numbers
-       ↓
-Redox Reactions
-       ↓
-Reduction / Oxidation
-       ↓
-Equation Balancing
-       ↓
-Acidic / Basic Medium
-       ↓
-Chemistry Utilities
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   OXIDATION NUMBER                                           │
+│          ↓                                                   │
+│   REDOX REACTION                                              │
+│          ↓                                                   │
+│   REDUCTION / OXIDATION                                      │
+│          ↓                                                   │
+│   EQUATION BALANCING                                         │
+│          ↓                                                   │
+│   ACIDIC / BASIC MEDIUM                                      │
+│          ↓                                                   │
+│   CHEMISTRY UTILITIES                                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+**Goal:** make chemistry calculations feel more like using a tool than solving repetitive manual work.
 
 ---
 
-## `05` — RANDOM THINGS I BUILD
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  WEB TOOLS        BROWSER EXTENSIONS       CALCULATORS      │
-│                                                             │
-│  DISCORD BOTS     EXPERIMENTAL UI          MINI GAMES       │
-│                                                             │
-│  DATA PROJECTS    AUTOMATION               RANDOM IDEAS     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-Most of them start with:
-
-> “wait... can I actually build this?”
-
-Then somehow become a repository.
-
----
-
-## `06` — GITHUB ACTIVITY
+# `05` / THE LAB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+### `RANDOM IDEAS → REAL PROJECTS`
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   QR TOOLS             █████████████████████████             ║
+║   CALCULATORS          ████████████████████░░░               ║
+║   BROWSER EXTENSIONS   █████████████████░░░░░               ║
+║   DISCORD BOTS         ███████████████░░░░░░               ║
+║   WEB EXPERIMENTS      ███████████████████░░░               ║
+║   MINI GAMES           ███████████████░░░░░░               ║
+║   DATA PROJECTS        █████████████░░░░░░░░               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+Some projects become serious.
+
+Some become prototypes.
+
+Some exist because I wondered:
+
+> **“Can I build this?”**
+
+---
+
+# `06` / PROJECT MINDSET
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=700&color=555555&center=true&vCenter=true&width=700&lines=Not+everything+needs+to+be+a+startup.;Not+everything+needs+to+be+perfect.;Sometimes+I+just+want+to+build+the+thing." />
+
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api?username=ArfinnoSeanchow&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" />
+```text
+GOOD UI
+     +
+GOOD LOGIC
+     +
+USEFUL IDEA
+     =
+GOOD PROJECT
+```
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+I prefer projects that are:
+
+`SIMPLE`
+
+`USEFUL`
+
+`FAST`
+
+`INTERACTIVE`
+
+`ACTUALLY FINISHED`
+
+---
+
+# `07` / GITHUB MOTION
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=ARFINNO%20—%20ACTIVITY" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=ArfinnoSeanchow&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=ArfinnoSeanchow&theme=transparent&hide_border=true&mode=weekly" />
+
+</div>
+
+---
+
+# `08` / CONTRIBUTION MACHINE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=ArfinnoSeanchow&theme=github_dark_dimmed&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArfinnoSeanchow&theme=github" width="100%"/>
 
 </div>
 
 ---
 
-## `07` — CONTRIBUTION MOTION
+# `09` / TROPHIES
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
 ---
 
-## `08` — TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## `09` — CURRENT STATE
+# `10` / CURRENT STATE
 
 <div align="center">
 
 ```text
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│   LEARNING        ███████████████░░░░░░   70%     │
-│   BUILDING        ███████████████████░░   90%     │
-│   DEBUGGING       █████████████████████  100%     │
-│   SLEEPING        █████░░░░░░░░░░░░░░░   25%     │
-│                                                    │
-╰────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  BUILDING       ████████████████████████░░░   92%         │
+│  LEARNING       ██████████████████░░░░░░░░   76%         │
+│  EXPERIMENTING  ███████████████████████░░░░   88%         │
+│  DEBUGGING      ███████████████████████████  100%         │
+│  SLEEPING       █████░░░░░░░░░░░░░░░░░░░░   21%         │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
 ---
 
-## `10` — FIND ME
+# `11` / NOW PLAYING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=2500&pause=900&color=777777&center=true&vCenter=true&width=650&lines=Learning+TypeScript;Building+with+Next.js;Designing+better+interfaces;Exploring+full-stack+development;Making+another+random+project." />
+
+</div>
+
+---
+
+# `12` / PHILOSOPHY
+
+<div align="center">
+
+## `01`
+
+### MAKE IT SIMPLE.
+
+<br>
+
+## `02`
+
+### MAKE IT WORK.
+
+<br>
+
+## `03`
+
+### MAKE IT BETTER.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Design+with+intention.;Code+with+precision.;Ship+with+purpose." />
+
+</div>
+
+---
+
+# `13` / CONNECT
 
 <div align="center">
 
 <a href="https://instagram.com/Arfinno88">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/Arfinno%20Seanchow">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:arfinnoseanchow88@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Build+something+interesting.;Make+it+simple.;Make+it+work.;Then+make+it+better." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=27&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=750&lines=SEE+AN+IDEA.+BUILD+IT.;MAKE+SOMETHING+INTERESTING.;KEEP+SHIPPING." />
 
 <br><br>
 
 ### `Simplicity in design. Precision in logic.`
 
+<br>
+
+<sub>Built with curiosity, experiments, broken builds, and too many ideas.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&color=111111&label=THANKS+FOR+VISITING"/>
+
 </div>
 
----
+<br>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=130&section=footer"/>
 
-<sub>Built with curiosity, questionable sleep schedules, and too many side projects.</sub>
+<!--
+████████████████████████████████████████████████████████████
 
-</div>
+                         ARFINNO
+
+              BUILD → BREAK → LEARN → REBUILD
+
+████████████████████████████████████████████████████████████
+-->

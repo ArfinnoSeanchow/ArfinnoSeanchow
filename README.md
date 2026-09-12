@@ -1,28 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&section=header&text=ARFINNO%20SEANCHOW&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Developer%20%2F%2F%20UI%20%2F%2F%20Web&descSize=16&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:DBEAFE,35:BAE6FD,70:C7D2FE,100:E0E7FF&section=header&text=ARFINNO%20SEANCHOW&fontSize=52&fontColor=0F172A&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%2F%2F%20UI%20%2F%2F%20WEB%20%2F%2F%20EXPERIMENTS&descSize=15&descAlignY=61&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=334155&center=true&vCenter=true&width=720&lines=Building+clean+interfaces.;Turning+ideas+into+working+products.;JavaScript+%2B+TypeScript+%2B+React+%2B+Next.js;Simplicity+in+design%2C+precision+in+logic." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=850&height=80&lines=Hello%2C+World!+%F0%9F%91%8B;I+build+interfaces+that+feel+alive.;I+turn+ideas+into+working+products.;Frontend+is+where+I+feel+at+home.;JavaScript+%E2%86%92+TypeScript+%E2%86%92+React+%E2%86%92+Next.js;Design+%2B+Code+%2B+Logic+%3D+Something+Useful.;Currently+learning.+Currently+building.+Always+experimenting.;Simplicity+in+design%2C+precision+in+logic." />
 
-<br><br>
+<br>
 
-<a href="https://github.com/ArfinnoSeanchow">
-<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&label=PROFILE%20VIEWS&color=111827"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&label=VIEWS&color=2563EB"/>
 &nbsp;
-<a href="https://github.com/ArfinnoSeanchow?tab=followers">
-<img src="https://img.shields.io/github/followers/ArfinnoSeanchow?style=flat-square&label=FOLLOWERS&color=111827"/>
-</a>
+<img src="https://img.shields.io/github/followers/ArfinnoSeanchow?style=flat-square&label=FOLLOWERS&color=38BDF8"/>
 &nbsp;
-<a href="https://github.com/ArfinnoSeanchow">
-<img src="https://img.shields.io/github/stars/ArfinnoSeanchow?style=flat-square&label=STARS&color=111827"/>
-</a>
+<img src="https://img.shields.io/github/stars/ArfinnoSeanchow?style=flat-square&label=STARS&color=6366F1"/>
 &nbsp;
-<a href="https://github.com/ArfinnoSeanchow/ArfinnoSeanchow">
-<img src="https://img.shields.io/github/last-commit/ArfinnoSeanchow/ArfinnoSeanchow?style=flat-square&label=LAST%20UPDATE&color=111827"/>
-</a>
+<img src="https://img.shields.io/github/last-commit/ArfinnoSeanchow/ArfinnoSeanchow?style=flat-square&label=UPDATED&color=818CF8"/>
 
 </div>
 
@@ -30,93 +22,96 @@
 
 <div align="center">
 
-> **I build interfaces, tools, and systems that turn ideas into something people can actually use.**
+### `DESIGN`   ×   `CODE`   ×   `SYSTEMS`   ×   `EXPERIMENTS`
 
 </div>
 
+<br>
+
 ---
 
-## `01` — ABOUT
+# `01` / ABOUT ME
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### Hello, World.
+## Hey, I'm Arfinno.
 
-I'm **Arfinno Seanchow**, a developer from Indonesia focused on **frontend development, UI/UX, and web applications**.
+I'm a developer from **Indonesia** focused on creating web experiences, interfaces, and tools that are simple on the surface but thoughtfully engineered underneath.
 
-I started with **C++ and Python**, then moved deeper into the JavaScript ecosystem — especially **TypeScript, React, and Next.js**.
+My journey started with **C++ and Python**.
 
-I like projects where design and engineering meet:
+Now most of my time goes into:
 
-**interfaces · interactions · APIs · databases · authentication · real-time systems**
+**JavaScript · TypeScript · React · Next.js**
 
-I don't try to make everything complicated.
+I enjoy jumping between design and engineering — from the first interface idea, to the API, database, interaction, and the tiny details that make something feel finished.
 
-I prefer building things that are:
+<br>
 
-**clear → useful → fast → maintainable**
+**I like building:**
+
+`Web Apps` · `Developer Tools` · `Dashboards` · `Educational Tools` · `Experiments` · `Bots` · `Interactive Interfaces`
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### NOW
-
-```text
-FOCUS
-
-Frontend
-████████████████████
-
-TypeScript
-██████████████████░░
-
-React / Next.js
-█████████████████░░░
-
-Backend
-██████████████░░░░░░
-
-UI / UX
-████████████████░░░░
-```
+### CURRENTLY
 
 ```text
-STATUS
-
-→ learning
-→ building
-→ experimenting
-→ shipping
+╭────────────────────────╮
+│                        │
+│  LEARNING               │
+│  JavaScript / TypeScript│
+│                        │
+│  BUILDING               │
+│  React / Next.js        │
+│                        │
+│  EXPLORING              │
+│  APIs / Databases       │
+│                        │
+│  EXPERIMENTING          │
+│  UI / Motion / Systems  │
+│                        │
+╰────────────────────────╯
 ```
+
+<br>
+
+`01` — make it useful
+`02` — make it clear
+`03` — make it fast
+`04` — make it feel good
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
 <div align="center">
 
-# THE STACK
+# `02` / THE STACK
 
-<sub>tools I actually use to build things</sub>
+### NOT JUST TOOLS. A CREATIVE TOOLBOX.
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css&theme=light" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tailwind,vite,threejs,postgres,supabase,sqlite,prisma,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css&theme=light&perline=7" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=github,figma,python,cpp,flask,fastapi,arduino&theme=light" />
+<img src="https://skillicons.dev/icons?i=tailwind,vite,threejs,express,postgres,supabase,sqlite&theme=light&perline=7" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=prisma,python,cpp,flask,fastapi,git,github&theme=light&perline=7" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=figma,arduino,ae,vercel,netlify&theme=light&perline=5" />
 
 </div>
 
@@ -124,128 +119,150 @@ STATUS
 
 <table>
 <tr>
-<td width="25%" valign="top">
 
-### FRONTEND
+<td width="25%" align="center">
+
+### `01`
+
+**LANGUAGES**
 
 `JavaScript`
-
 `TypeScript`
-
-`React`
-
-`Next.js`
-
+`Python`
+`C++`
 `HTML`
-
 `CSS`
-
-`TailwindCSS`
-
-`Vite`
-
-`Three.js`
-
-</td>
-
-<td width="25%" valign="top">
-
-### BACKEND
-
-`Node.js`
-
-`Express.js`
-
-`FastAPI`
-
-`Flask`
-
-`REST API`
-
-`Authentication`
-
-`Realtime`
-
-</td>
-
-<td width="25%" valign="top">
-
-### DATA
-
-`PostgreSQL`
-
-`Supabase`
-
-`SQLite`
-
-`Prisma`
-
 `SQL`
 
-`Chart.js`
+</td>
+
+<td width="25%" align="center">
+
+### `02`
+
+**INTERFACE**
+
+`React`
+`Next.js`
+`TailwindCSS`
+`Vite`
+`Three.js`
+
+<br>
+
+`UI / UX`
+`Responsive Design`
+`Interaction`
 
 </td>
 
-<td width="25%" valign="top">
+<td width="25%" align="center">
 
-### WORKFLOW
+### `03`
+
+**SYSTEMS**
+
+`Node.js`
+`Express`
+`FastAPI`
+`Flask`
+`PostgreSQL`
+`Supabase`
+`SQLite`
+`Prisma`
+
+</td>
+
+<td width="25%" align="center">
+
+### `04`
+
+**CRAFT**
 
 `Git`
-
 `GitHub`
-
 `Figma`
-
 `Vercel`
-
 `Netlify`
-
-`After Effects`
-
+`Chart.js`
 `Arduino`
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+```text
+                     ┌───────────────┐
+                     │    IDEAS      │
+                     └───────┬───────┘
+                             ↓
+                 ┌─────────────────────┐
+                 │      DESIGN         │
+                 │   UI / UX / FLOW    │
+                 └──────────┬──────────┘
+                            ↓
+            ┌──────────────────────────────┐
+            │           CODE               │
+            │ JS · TS · React · Next.js    │
+            └──────────────┬───────────────┘
+                           ↓
+                 ┌─────────────────────┐
+                 │       SYSTEMS       │
+                 │ API · DB · AUTH      │
+                 └──────────┬──────────┘
+                            ↓
+                    ┌──────────────┐
+                    │   SHIP IT.   │
+                    └──────────────┘
+```
+
+</div>
+
 ---
 
-## `02` — SELECTED WORK
+# `03` / SELECTED WORK
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🧪 CHEMLY
+## 🧪 CHEMLY
 
-**Chemistry, calculations & redox utilities.**
+### Chemistry, but actually useful.
 
-A chemistry-focused platform built around oxidation numbers, redox reactions, equation balancing, acidic/basic environments, and practical chemistry tools.
+A chemistry platform focused on **oxidation numbers, redox reactions, equation balancing, acidic/basic environments, and chemistry utilities**.
 
-**Stack**
+```text
+REACT
+JAVASCRIPT
+ALGORITHMS
+CHEMISTRY
+```
 
-`React` `JavaScript` `Algorithms`
-
-<br>
-
-→ **[View project](https://github.com/ArfinnoSeanchow/Chem)**
+→ **https://github.com/ArfinnoSeanchow/Chem**
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ QUITE WORKS
+## ⚙️ QUITE WORKS
 
-**A collection of focused web utilities.**
+### Small tools. Sharp workflows.
 
-Tools designed around a simple idea:
+A growing collection of focused utilities where every tool solves a specific problem without unnecessary complexity.
 
-> one problem — one workflow — one clean interface.
-
-**Stack**
-
-`Next.js` `TypeScript` `Web`
+```text
+NEXT.JS
+TYPESCRIPT
+WEB TOOLS
+UI / UX
+```
 
 </td>
 
@@ -255,25 +272,35 @@ Tools designed around a simple idea:
 
 <td width="50%" valign="top">
 
-### 🎵 CINDER
+## 🎵 CINDER
 
-**Music analytics & data visualization.**
+### Data, music & interfaces.
 
-An experimental Spotify-based analytics interface exploring API integration, authentication, dashboards, charts, and interactive data.
+An experimental music analytics project exploring APIs, authentication, dashboards, visualizations, and interactive data.
 
-`Node.js` `Express` `Spotify API`
+```text
+NODE.JS
+EXPRESS
+SPOTIFY API
+CHART.JS
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 EXPERIMENTS
+## 🧩 EXPERIMENTS
 
-Small projects that don't necessarily fit into one category.
+### Weird ideas are allowed.
 
-Browser experiments, Discord bots, educational tools, automation, games, UI experiments, and random ideas that eventually become real projects.
+Browser tools, Discord bots, educational utilities, automation, games, UI experiments, and anything interesting enough to build.
 
-`Web` `Bots` `Automation` `Experiments`
+```text
+WEB
+BOTS
+AUTOMATION
+EXPERIMENTS
+```
 
 </td>
 
@@ -282,82 +309,62 @@ Browser experiments, Discord bots, educational tools, automation, games, UI expe
 
 ---
 
-## `03` — GITHUB
-
 <div align="center">
 
-<a href="https://github.com/ArfinnoSeanchow">
-<img src="https://github-readme-stats.shion.dev/api?username=ArfinnoSeanchow&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170"/>
-</a>
+# `04` / GITHUB
 
-<a href="https://github.com/ArfinnoSeanchow">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170"/>
-</a>
+<img src="https://github-readme-stats.shion.dev/api?username=ArfinnoSeanchow&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&title_color=2563EB&icon_color=38BDF8&text_color=334155" height="175"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=2563EB&text_color=334155" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=ArfinnoSeanchow&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com/?user=ArfinnoSeanchow&hide_border=true&background=FFFFFF00&ring=38BDF8&fire=6366F1&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" />
 
 </div>
 
 ---
 
-## `04` — CONTRIBUTIONS
+# `05` / CONTRIBUTION MACHINE
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=ffffff00&color=334155&line=475569&point=0f172a&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=ffffff00&color=2563EB&line=38BDF8&point=6366F1&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## `05` — TROPHIES
+# `06` / TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" width="95%" />
 
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:334155,50:1e293b,100:0f172a&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:E0E7FF,35:C7D2FE,70:BAE6FD,100:DBEAFE&section=footer"/>
 
-### BUILD SOMETHING GOOD.
+# BUILD. BREAK. LEARN. REPEAT.
 
-`JavaScript` · `TypeScript` · `React` · `Next.js`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Always+building+something.;Always+breaking+something.;Always+learning+something.;See+you+in+the+next+commit." />
 
 <br>
 
-<a href="mailto:arfinnoseanchow88@gmail.com">Email</a>
- ·  <a href="https://instagram.com/Arfinno88">Instagram</a>
- ·  <a href="https://linkedin.com/in/Arfinno%20Seanchow">LinkedIn</a>
- ·  <a href="https://github.com/ArfinnoSeanchow">GitHub</a>
+<a href="mailto:arfinnoseanchow88@gmail.com">EMAIL</a>
+  ·   <a href="https://instagram.com/Arfinno88">INSTAGRAM</a>
+  ·   <a href="https://linkedin.com/in/Arfinno%20Seanchow">LINKEDIN</a>
+  ·   <a href="https://github.com/ArfinnoSeanchow">GITHUB</a>
 
 <br><br>
 

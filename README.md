@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EFF6FF,25:E0F2FE,50:DBEAFE,75:EDE9FE,100:F5F3FF&section=header&text=ARFINNO%20SEANCHOW&fontSize=48&fontColor=172554&fontAlignY=36&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20UI%20%E2%80%A2%20WEB%20%E2%80%A2%20EXPERIMENTS&descSize=14&descAlignY=57&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:EFF6FF,20:DBEAFE,40:E0F2FE,60:DDD6FE,80:EDE9FE,100:F5F3FF&section=header&text=ARFINNO%20SEANCHOW&fontSize=50&fontColor=172554&fontAlignY=36&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20UI%20%E2%80%A2%20WEB%20%E2%80%A2%20EXPERIMENTS&descSize=14&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=650&color=2563EB&center=true&vCenter=true&width=900&height=100&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;I'm+Arfinno+Seanchow.;I+build+interfaces+that+feel+alive.;I+turn+ideas+into+working+products.;Frontend+Developer+%2B+UI%2FUX+Enthusiast.;JavaScript+%E2%86%92+TypeScript+%E2%86%92+React+%E2%86%92+Next.js;Design+is+how+it+looks.+Code+is+how+it+works.;Building+small+things.+Breaking+big+things.+Learning+everything.;Simplicity+in+design%2C+precision+in+logic." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1700&pause=650&color=2563EB&center=true&vCenter=true&width=950&height=110&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+LITTLE+CORNER+OF+THE+INTERNET.;I'M+ARFINNO+SEANCHOW.;FRONTEND+DEVELOPER+%2B+UI%2FUX+ENTHUSIAST.;I+BUILD+INTERFACES+THAT+FEEL+ALIVE.;I+TURN+IDEAS+INTO+WORKING+PRODUCTS.;JAVASCRIPT+%E2%86%92+TYPESCRIPT+%E2%86%92+REACT+%E2%86%92+NEXT.JS;DESIGN+%C3%97+CODE+%C3%97+LOGIC+%C3%97+EXPERIMENTATION;BUILDING+SMALL+THINGS.+BREAKING+BIG+THINGS.;LEARNING+SOMETHING+NEW+WITH+EVERY+COMMIT.;SIMPLICITY+IN+DESIGN%2C+PRECISION+IN+LOGIC." />
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&label=PROFILE%20VIEWS&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&label=VIEWS&color=2563EB"/>
 
 </td>
 <td align="center">
@@ -27,7 +27,41 @@
 </td>
 <td align="center">
 
-<img src="https://img.shields.io/github/last-commit/ArfinnoSeanchow/ArfinnoSeanchow?style=flat-square&label=LAST%20UPDATE&color=818CF8"/>
+<img src="https://img.shields.io/github/last-commit/ArfinnoSeanchow/ArfinnoSeanchow?style=flat-square&label=UPDATED&color=818CF8"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+
+`JAVASCRIPT`　•　`TYPESCRIPT`　•　`REACT`　•　`NEXT.JS`　•　`NODE.JS`　•　`POSTGRESQL`　•　`UI/UX`　•　`WEB DEVELOPMENT`　•　`EXPERIMENTS`　•　`BUILD SOMETHING GOOD`
+
+</marquee>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```text id="c5q7p3"
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│                         HELLO, WORLD.                              │
+│                                                                    │
+│        I BUILD. I EXPERIMENT. I BREAK. I LEARN. I SHIP.            │
+│                                                                    │
+│              DESIGN  ×  CODE  ×  LOGIC  ×  CURIOSITY              │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
 
 </td>
 </tr>
@@ -37,93 +71,80 @@
 
 <br>
 
-<table>
-<tr>
-<td>
+---
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   HELLO, I'M FINNO.                                                  │
-│                                                                      │
-│   I build web experiences, developer tools, interfaces,              │
-│   experiments, and occasionally things that probably                 │
-│   didn't need to exist — but were fun to build anyway.              │
-│                                                                      │
-│   DESIGN  ×  CODE  ×  LOGIC  ×  EXPERIMENTATION                     │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br>
+<div align="center">
 
 # `01` ── ABOUT ME
 
-<table>
+<table align="center">
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top" align="center">
 
-### 👋 Hello, World.
+### 👋 WHO AM I?
 
 I'm **Arfinno Seanchow**, a developer from Indonesia focused on **frontend development, UI/UX, and web applications**.
 
-My coding journey started with **C++ and Python** before moving deeper into the JavaScript ecosystem.
+I started coding with **C++ and Python**, then gradually moved into the JavaScript ecosystem.
 
-Today I'm mostly working with:
+Today, most of my work revolves around:
 
 `JavaScript` · `TypeScript` · `React` · `Next.js`
 
-I enjoy building things where **design and engineering overlap** — interfaces, interactions, APIs, databases, authentication, visualizations, and systems behind the screen.
+I like projects where **visual design and engineering meet**.
+
+That means I can spend the morning thinking about spacing and typography, then spend the afternoon debugging an API.
 
 <br>
 
 ```text
-THINGS I LIKE TO BUILD
+BUILDING
 
-01  Web Applications
-02  Developer Tools
-03  Interactive Interfaces
-04  Educational Products
-05  Dashboards & Data
-06  Bots & Automation
-07  Weird Experiments
+WEB APPS
+DEVELOPER TOOLS
+DASHBOARDS
+EDUCATIONAL TOOLS
+AUTOMATION
+BOTS
+GAMES
+EXPERIMENTS
 ```
 
 </td>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top" align="center">
 
-### `CURRENTLY`
+### CURRENTLY
 
-<table>
-<tr><td>LEARNING</td><td>JS / TS</td></tr>
-<tr><td>BUILDING</td><td>React / Next.js</td></tr>
-<tr><td>EXPLORING</td><td>APIs / DB</td></tr>
-<tr><td>DESIGNING</td><td>UI / UX</td></tr>
-<tr><td>EXPERIMENTING</td><td>Web / Tools</td></tr>
+<table align="center">
+<tr><td>FOCUS</td><td>Frontend</td></tr>
+<tr><td>LANGUAGE</td><td>TypeScript</td></tr>
+<tr><td>FRAMEWORK</td><td>Next.js</td></tr>
+<tr><td>UI</td><td>React</td></tr>
+<tr><td>DATA</td><td>PostgreSQL</td></tr>
+<tr><td>TOOLS</td><td>Git / GitHub</td></tr>
+<tr><td>DESIGN</td><td>Figma</td></tr>
+<tr><td>DEPLOY</td><td>Vercel</td></tr>
 </table>
 
 <br>
 
-### `MINDSET`
-
 ```text
-01 → KEEP IT USEFUL
-02 → KEEP IT CLEAR
-03 → KEEP IT FAST
-04 → KEEP IT HUMAN
-05 → SHIP THE THING
+01 → LEARN
+02 → EXPERIMENT
+03 → BUILD
+04 → BREAK
+05 → FIX
+06 → SHIP
 ```
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -133,200 +154,227 @@ THINGS I LIKE TO BUILD
 
 # `02` ── TECH STACK
 
-### MY DIGITAL TOOLBOX
+### THE TOOLBOX
+
+<marquee behavior="alternate" scrollamount="4">
+
+⚡ JavaScript　⚡ TypeScript　⚡ React　⚡ Next.js　⚡ Node.js　⚡ PostgreSQL　⚡ Python　⚡ C++
+
+</marquee>
+
+<br><br>
+
+## `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=light&perline=4"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=light&perline=4"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,html,css,tailwind,vite&theme=light&perline=6"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,prisma,python,cpp&theme=light&perline=6"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=threejs,git,github,figma,vercel,netlify&theme=light&perline=6"/>
-
-</div>
-
-<br>
-
-<table>
+<table align="center">
 <tr>
-
-<td width="25%" valign="top">
-
-### `01`
-
-## FRONTEND
-
-> **Interfaces**
-
-`JavaScript`
-
-`TypeScript`
-
-`React`
-
-`Next.js`
-
-`HTML`
-
-`CSS`
-
-`TailwindCSS`
-
-`Vite`
-
-`Three.js`
-
-</td>
-
-<td width="25%" valign="top">
-
-### `02`
-
-## BACKEND
-
-> **Systems**
-
-`Node.js`
-
-`Express.js`
-
-`FastAPI`
-
-`Flask`
-
-`REST API`
-
-`Authentication`
-
-`Realtime`
-
-</td>
-
-<td width="25%" valign="top">
-
-### `03`
-
-## DATABASE
-
-> **Data**
-
-`PostgreSQL`
-
-`Supabase`
-
-`SQLite`
-
-`Prisma`
-
-`SQL`
-
-`Chart.js`
-
-</td>
-
-<td width="25%" valign="top">
-
-### `04`
-
-## WORKFLOW
-
-> **Craft**
-
-`Git`
-
-`GitHub`
-
-`Figma`
-
-`Vercel`
-
-`Netlify`
-
-`After Effects`
-
-`Arduino`
-
-</td>
-
+<td align="center">JavaScript</td>
+<td align="center">TypeScript</td>
+<td align="center">Python</td>
+<td align="center">C++</td>
+<td align="center">SQL</td>
 </tr>
 </table>
 
 <br>
 
-<div align="center">
+## `FRONTEND`
 
-<table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs,webpack&theme=light&perline=8"/>
+
+<br>
+
+<table align="center">
 <tr>
+<td align="center">React</td>
+<td align="center">Next.js</td>
+<td align="center">HTML5</td>
+<td align="center">CSS3</td>
+<td align="center">TailwindCSS</td>
+<td align="center">Vite</td>
+<td align="center">Three.js</td>
+<td align="center">Webpack</td>
+</tr>
+</table>
+
+<br>
+
+## `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=light&perline=4"/>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">Node.js</td>
+<td align="center">Express.js</td>
+<td align="center">FastAPI</td>
+<td align="center">Flask</td>
+<td align="center">REST APIs</td>
+<td align="center">Authentication</td>
+<td align="center">Realtime</td>
+</tr>
+</table>
+
+<br>
+
+## `DATABASE & DATA`
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,prisma&theme=light&perline=4"/>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">PostgreSQL</td>
+<td align="center">Supabase</td>
+<td align="center">SQLite</td>
+<td align="center">Prisma</td>
+<td align="center">SQL</td>
+<td align="center">Chart.js</td>
+</tr>
+</table>
+
+<br>
+
+## `DEV TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=light&perline=4"/>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">Git</td>
+<td align="center">GitHub</td>
+<td align="center">VS Code</td>
+<td align="center">npm</td>
+<td align="center">Vercel</td>
+<td align="center">Netlify</td>
+</tr>
+</table>
+
+<br>
+
+## `DESIGN & CREATIVE`
+
+<img src="https://skillicons.dev/icons?i=figma,ae&theme=light&perline=2"/>
+
+<br>
+
+`Figma`　`UI Design`　`UX Design`　`Typography`　`Motion`　`After Effects`
+
+<br><br>
+
+## `HARDWARE & OTHER`
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=light&perline=1"/>
+
+<br>
+
+`Arduino`　`Electronics`　`Robotics`
+
+<br><br>
+
+<table align="center">
+<tr>
+
 <td align="center">
 
 ### ⚡ BUILD
 
-`React` `Next.js` `TypeScript`
+`React`
+`Next.js`
+`TypeScript`
 
 </td>
 
 <td align="center">
 
-### ◇ DESIGN
+### 🎨 DESIGN
 
-`UI` `UX` `Figma`
-
-</td>
-
-<td align="center">
-
-### ◉ DATA
-
-`PostgreSQL` `Supabase` `Prisma`
+`UI`
+`UX`
+`Figma`
 
 </td>
 
 <td align="center">
 
-### → SHIP
+### 🧠 LOGIC
 
-`Git` `GitHub` `Vercel`
+`Python`
+`C++`
+`Algorithms`
 
 </td>
+
+<td align="center">
+
+### 🗄 DATA
+
+`PostgreSQL`
+`Supabase`
+`Prisma`
+
+</td>
+
+<td align="center">
+
+### 🚀 SHIP
+
+`Git`
+`GitHub`
+`Vercel`
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-```text
-                   IDEA
-                    │
-                    ▼
-              ┌───────────┐
-              │  DESIGN   │
-              └─────┬─────┘
-                    │
-                    ▼
-              ┌───────────┐
-              │   CODE    │
-              │ JS · TS   │
-              │ React     │
-              │ Next.js   │
-              └─────┬─────┘
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-        ┌─────────┐   ┌──────────┐
-        │   API   │   │ DATABASE │
-        └────┬────┘   └────┬─────┘
-             └──────┬──────┘
-                    ▼
-              ┌───────────┐
-              │   SHIP    │
-              └───────────┘
+```text id="j1kw3x"
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                     ┌─────────────────────┐
+                     │       DESIGN        │
+                     │     UI / UX / FLOW  │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                ┌───────────────────────────────┐
+                │             CODE              │
+                │                               │
+                │  JS · TS · React · Next.js    │
+                └───────────────┬───────────────┘
+                                │
+                   ┌────────────┴────────────┐
+                   ▼                         ▼
+             ┌───────────┐             ┌───────────┐
+             │    API    │             │ DATABASE  │
+             │ Node /    │             │ Postgres  │
+             │ Express   │             │ Supabase  │
+             └─────┬─────┘             └─────┬─────┘
+                   └────────────┬────────────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │    SHIP     │
+                         └──────┬──────┘
+                                │
+                                ▼
+                         ┌─────────────┐
+                         │   REPEAT    │
+                         └─────────────┘
 ```
 
 </div>
@@ -335,62 +383,46 @@ THINGS I LIKE TO BUILD
 
 ---
 
+<div align="center">
+
 # `03` ── SELECTED WORK
 
-<table>
+<table align="center">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ## 🧪 CHEMLY
 
 ### Chemistry × Algorithms
 
-A chemistry platform focused on:
-
-`Oxidation Numbers`
-
-`Redox Reactions`
-
-`Equation Balancing`
-
-`Acidic / Basic Medium`
-
-`Chemistry Utilities`
+Oxidation numbers, redox reactions, balancing, acidic/basic environments, and chemistry utilities.
 
 <br>
-
-**Built with**
 
 `React` `JavaScript` `Algorithms`
 
 <br>
 
-→ https://github.com/ArfinnoSeanchow/Chem
+<a href="https://github.com/ArfinnoSeanchow/Chem">VIEW PROJECT →</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ## ⚙️ QUITE WORKS
 
 ### Tools × Interfaces
 
-A collection of focused web utilities built around a simple philosophy:
-
-```text
-ONE PROBLEM
-      ↓
-ONE WORKFLOW
-      ↓
-ONE CLEAN INTERFACE
-```
+Focused digital utilities designed around individual workflows.
 
 <br>
 
-**Built with**
+`Next.js` `TypeScript` `Web Tools`
 
-`Next.js` `TypeScript` `Web`
+<br>
+
+**ONE PROBLEM → ONE TOOL → ONE INTERFACE**
 
 </td>
 
@@ -398,48 +430,48 @@ ONE CLEAN INTERFACE
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ## 🎵 CINDER
 
-### Music × Data × Interface
+### Music × Data
 
-An experimental analytics platform exploring Spotify data, dashboards, API architecture, authentication, and visualization.
+Spotify analytics, dashboards, visualization, APIs, authentication, and interactive data.
 
 <br>
-
-**Built with**
 
 `Node.js` `Express` `Chart.js`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ## 🧩 EXPERIMENTS
 
-### The random corner.
+### The weird corner.
 
-Browser tools, Discord bots, educational utilities, games, automation, UI experiments, and ideas that were simply too interesting not to build.
+Games, browser tools, Discord bots, automation, educational utilities, and random experiments.
 
 <br>
 
-`WEB` `BOTS` `TOOLS` `GAMES` `EXPERIMENTS`
+`WEB` `BOTS` `TOOLS` `GAMES`
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br>
 
 ---
 
-# `04` ── GITHUB ACTIVITY
-
 <div align="center">
 
-<table>
+# `04` ── GITHUB ANALYTICS
+
+<table align="center">
 <tr>
 
 <td align="center">
@@ -450,7 +482,7 @@ Browser tools, Discord bots, educational utilities, games, automation, UI experi
 
 <td align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&layout=compact&hide_border=true&theme=transparent&langs_count=8&title_color=2563EB&text_color=334155"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&layout=compact&hide_border=true&theme=transparent&langs_count=10&title_color=2563EB&text_color=334155"/>
 
 </td>
 
@@ -461,28 +493,32 @@ Browser tools, Discord bots, educational utilities, games, automation, UI experi
 
 <img src="https://streak-stats.demolab.com/?user=ArfinnoSeanchow&hide_border=true&background=FFFFFF00&ring=38BDF8&fire=6366F1&currStreakLabel=2563EB&sideLabels=334155&dates=64748B"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&custom_title=ARFINNO%20SEANCHOW%20%E2%80%94%20ACTIVITY&days=40&area=true&radius=10&hide_border=true&bg_color=ffffff00&color=2563EB&line=38BDF8&point=6366F1" width="95%" />
+
 </div>
 
 <br>
 
 ---
 
-# `05` ── CONTRIBUTION MACHINE
-
 <div align="center">
 
-<table>
+# `05` ── CONTRIBUTION SNAKE
+
+<table align="center">
 <tr>
-<td>
+<td align="center">
 
 ```text
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│                     CONTRIBUTION ENGINE                            │
-│                                                                    │
-│                 CODE → COMMIT → BUILD → REPEAT                    │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│                    CONTRIBUTION MACHINE                     │
+│                                                             │
+│             COMMIT → BUILD → SHIP → REPEAT                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </td>
@@ -502,34 +538,22 @@ Browser tools, Discord bots, educational utilities, games, automation, UI experi
   />
   <img
     src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </picture>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=ffffff00&color=2563EB&line=38BDF8&point=6366F1&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 <br>
 
 ---
+
+<div align="center">
 
 # `06` ── TROPHIES
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
 
 </div>
 
@@ -539,11 +563,11 @@ Browser tools, Discord bots, educational utilities, games, automation, UI experi
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F5F3FF,25:EDE9FE,50:DBEAFE,75:E0F2FE,100:EFF6FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F5F3FF,20:EDE9FE,40:DDD6FE,60:DBEAFE,80:E0F2FE,100:EFF6FF&section=footer"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=700&color=2563EB&center=true&vCenter=true&width=700&lines=BUILD.;BREAK.;LEARN.;REBUILD.;SHIP.;REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=650&color=2563EB&center=true&vCenter=true&width=700&height=60&lines=BUILD.;BREAK.;LEARN.;REBUILD.;SHIP.;REPEAT." />
 
 <br><br>
 
@@ -556,16 +580,16 @@ Browser tools, Discord bots, educational utilities, games, automation, UI experi
 ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-### FINNO
+### F I N N O
 
-`CODE` · `DESIGN` · `BUILD` · `EXPERIMENT`
+`CODE`　`DESIGN`　`BUILD`　`EXPERIMENT`
 
 <br>
 
 <a href="mailto:arfinnoseanchow88@gmail.com">EMAIL</a>
-  ·   <a href="https://instagram.com/Arfinno88">INSTAGRAM</a>
-  ·   <a href="https://linkedin.com/in/Arfinno%20Seanchow">LINKEDIN</a>
-  ·   <a href="https://github.com/ArfinnoSeanchow">GITHUB</a>
+ ·  <a href="https://instagram.com/Arfinno88">INSTAGRAM</a>
+ ·  <a href="https://linkedin.com/in/Arfinno%20Seanchow">LINKEDIN</a>
+ ·  <a href="https://github.com/ArfinnoSeanchow">GITHUB</a>
 
 <br><br>
 

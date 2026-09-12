@@ -51,7 +51,7 @@
 <tr>
 <td>
 
-```text id="c5q7p3"
+```text
 ╭────────────────────────────────────────────────────────────────────╮
 │                                                                    │
 │                         HELLO, WORLD.                              │
@@ -339,7 +339,7 @@ EXPERIMENTS
 
 <br>
 
-```text id="j1kw3x"
+```text
                          ┌───────────────┐
                          │     IDEA      │
                          └───────┬───────┘
@@ -586,10 +586,13 @@ Games, browser tools, Discord bots, automation, educational utilities, and rando
 
 <br>
 
-<a href="mailto:arfinnoseanchow88@gmail.com">EMAIL</a>
- ·  <a href="https://instagram.com/Arfinno88">INSTAGRAM</a>
- ·  <a href="https://linkedin.com/in/Arfinno%20Seanchow">LINKEDIN</a>
- ·  <a href="https://github.com/ArfinnoSeanchow">GITHUB</a>
+<a href="mailto:[arfinnoseanchow88@gmail.com](mailto:arfinnoseanchow88@gmail.com)">EMAIL</a>
+ · 
+<a href="https://instagram.com/Arfinno88">INSTAGRAM</a>
+ · 
+<a href="https://linkedin.com/in/Arfinno%20Seanchow">LINKEDIN</a>
+ · 
+<a href="https://github.com/ArfinnoSeanchow">GITHUB</a>
 
 <br><br>
 

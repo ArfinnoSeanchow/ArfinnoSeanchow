@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=155&section=header&text=ARFINNO%20SEANCHOW&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20EXPERIMENTER&descSize=12&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=111111&section=header&text=ARFINNO%20SEANCHOW&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20EXPERIMENTER&descAlignY=60&descSize=13&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1800&pause=650&color=111111&center=true&vCenter=true&width=850&lines=%3E+initializing+arfinno.dev...;%3E+loading+developer.profile...;%3E+frontend+developer+%5BOK%5D;%3E+creative+builder+%5BOK%5D;%3E+coffee.exe+%5BRUNNING%5D;%3E+building+something+interesting..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=700&color=111111&center=true&vCenter=true&width=760&lines=%3E+frontend+developer;%3E+building+useful+things;%3E+learning+by+shipping;%3E+currently+deep+in+javascript+%2F+typescript" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ArfinnoSeanchow&style=flat-square&color=111111&label=PROFILE+VIEWS"/>
 
- 
+  
 
-<a href="https://github.com/ArfinnoSeanchow">
 <img src="https://img.shields.io/github/followers/ArfinnoSeanchow?style=flat-square&label=FOLLOWERS&color=111111"/>
-</a>
 
- 
+  
 
 <img src="https://img.shields.io/github/stars/ArfinnoSeanchow?style=flat-square&label=STARS&color=111111"/>
 
@@ -22,95 +20,59 @@
 
 ---
 
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────────────────────╮
-│                                                                            │
-│  ARFINNO / DEVELOPER                                                       │
-│                                                                            │
-│  WEB ───────── UI/UX ───────── TOOLS ───────── SYSTEMS ───────── GAMES    │
-│                                                                            │
-│  STATUS     BUILDING                                                     │
-│  FOCUS      JAVASCRIPT / TYPESCRIPT / REACT / NEXT.JS                    │
-│  ORIGIN     INDONESIA                                                     │
-│                                                                            │
-╰────────────────────────────────────────────────────────────────────────────╯
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=16&duration=2600&pause=700&color=666666&center=true&vCenter=true&width=850&lines=I+turn+random+ideas+into+working+software.;Design+%E2%86%92+Code+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Ship.;Sometimes+the+best+way+to+learn+is+to+build+it." />
-
-</div>
-
----
-
-## `01` ABOUT / NOW
-
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### HELLO, WORLD! 👋
+## `01` — ABOUT
 
-I'm **Arfinno Seanchow**, a developer from Indonesia.
+### Hello, World! 👋
 
-Started programming with **C++ and Python**.
-Now I'm focused mostly on:
+I'm **Arfinno Seanchow**, a developer from Indonesia who enjoys building **web applications, useful tools, interactive interfaces, and experimental projects**.
 
-`JavaScript` `TypeScript` `React` `Next.js`
+I started with **C++ and Python**, and now I'm spending most of my time with:
 
-I enjoy building:
+`JavaScript` · `TypeScript` · `React` · `Next.js`
 
-* modern web applications
-* interactive interfaces
-* developer utilities
-* educational tools
-* browser experiments
-* Discord bots
-* small games
-* data-driven applications
+I learn best by building things myself — designing the idea, writing the code, breaking it, debugging it, and eventually shipping it.
 
-My favorite workflow:
+<br>
 
-**idea → prototype → break → debug → rebuild → ship**
+**Currently interested in**
+
+`Frontend`
+`UI / UX`
+`Developer Tools`
+`Full-Stack Development`
+`APIs & Databases`
+`Interactive Web`
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### CURRENTLY
+## `02` — QUICK VIEW
 
 ```text
-┌──────────────────────────┐
-│                          │
-│  BUILDING        ██████  │
-│  LEARNING        █████   │
-│  EXPLORING       ██████  │
-│  DEBUGGING       ███████ │
-│  SLEEPING        ██      │
-│                          │
-└──────────────────────────┘
+╭────────────────────────────╮
+│                            │
+│  NAME                      │
+│  Arfinno Seanchow          │
+│                            │
+│  BASE                      │
+│  Indonesia                 │
+│                            │
+│  CURRENT FOCUS             │
+│  Web Development           │
+│                            │
+│  MAIN STACK                │
+│  JS / TS / React / Next    │
+│                            │
+│  BUILD STYLE               │
+│  Simple / Useful / Fast    │
+│                            │
+╰────────────────────────────╯
 ```
-
-**Focus**
-
-`Frontend`
-
-`UI / UX`
-
-`Full-Stack`
-
-`Developer Tools`
-
-**Learning**
-
-`TypeScript`
-
-`Next.js`
-
-`Backend`
-
-`Architecture`
 
 </td>
 </tr>
@@ -118,53 +80,118 @@ My favorite workflow:
 
 ---
 
-## `02` CONTRIBUTION MOTION
-
 <div align="center">
 
-### 🐍 THE CODE SNAKE
+## `03` — THE STACK
 
-<img src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=777777&center=true&vCenter=true&width=700&lines=commits+are+moving...;contributions+detected...;snake.exe+is+hungry...;feed+the+repositories." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=666666&center=true&vCenter=true&width=650&lines=tools+of+the+trade...;learning+new+ones+as+I+build...;no+framework+hoarding%2C+just+shipping." />
 
 </div>
-
----
-
-## `03` TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,vite,tailwind,postgres,supabase,sqlite,prisma,flask,fastapi,git,github,figma,vercel,netlify,arduino" />
-
-<br><br>
-
-`C++` · `Python` · `JavaScript` · `TypeScript` · `React` · `Next.js`
-
-`Node.js` · `Express` · `PostgreSQL` · `Supabase` · `SQLite` · `Prisma`
-
-`Vite` · `Tailwind` · `Git` · `GitHub` · `Figma`
-
-</div>
-
----
-
-## `04` SELECTED PROJECT
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql" />
+
+<br><br>
+
+```text
+C++          SYSTEMS / FUNDAMENTALS
+Python       AUTOMATION / BACKEND
+JavaScript   WEB / INTERACTION
+TypeScript   APPLICATIONS / SCALE
+HTML + CSS   STRUCTURE / DESIGN
+SQL          DATA / QUERIES
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
+
+<br><br>
+
+```text
+React        COMPONENTS
+Next.js      FULL-STACK WEB
+Vite         FAST TOOLING
+Tailwind     UI SYSTEMS
+Three.js     3D EXPERIMENTS
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `BACKEND / DATA`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgres,supabase,sqlite,prisma" />
+
+<br><br>
+
+```text
+Node.js      SERVER RUNTIME
+Express      APIs
+Flask        PYTHON WEB
+FastAPI      PYTHON APIs
+PostgreSQL   RELATIONAL DATA
+Supabase     BACKEND SERVICES
+SQLite       LOCAL DATA
+Prisma       DATABASE ORM
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `TOOLS / WORKFLOW`
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,arduino" />
+
+<br><br>
+
+```text
+Git          VERSION CONTROL
+GitHub       COLLABORATION
+Figma        UI / PROTOTYPING
+Vercel       DEPLOYMENT
+Netlify      DEPLOYMENT
+Arduino      HARDWARE EXPERIMENTS
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`C++` · `Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL`
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## `04` — CURRENT PROJECT
 
 # 🧪 CHEMLY
 
-### CHEMISTRY × COMPUTATION × INTERACTION
+### Interactive Chemistry Toolkit
 
-An interactive chemistry platform focused on actually **calculating chemistry**, rather than simply displaying explanations.
+CHEMLY is an interactive chemistry project focused on making repetitive chemistry calculations easier to work with.
 
-**Core direction**
+**Current direction**
 
 `Oxidation Numbers`
 `Redox Reactions`
@@ -174,25 +201,33 @@ An interactive chemistry platform focused on actually **calculating chemistry**,
 `Basic Medium`
 `Chemistry Utilities`
 
-[VIEW PROJECT →](https://github.com/ArfinnoSeanchow/Chem?utm_source=chatgpt.com)
+[View CHEMLY on GitHub →](https://github.com/ArfinnoSeanchow/Chem?utm_source=chatgpt.com)
 
 </td>
 
-<td width="30%" align="center">
+<td width="35%" valign="top">
+
+### `PIPELINE`
 
 ```text
-     CHEMLY
-
-       ⚗
-
-  INPUT
-    ↓
-  PARSE
-    ↓
- CALCULATE
-    ↓
- RESULT
+INPUT
+  │
+  ▼
+PARSE
+  │
+  ▼
+CALCULATE
+  │
+  ▼
+VALIDATE
+  │
+  ▼
+RESULT
 ```
+
+<br>
+
+`chemistry × code`
 
 </td>
 </tr>
@@ -200,44 +235,69 @@ An interactive chemistry platform focused on actually **calculating chemistry**,
 
 ---
 
-## `05` THE LAB
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=1700&pause=600&color=111111&center=true&vCenter=true&width=750&lines=EXPERIMENTS;SIDE+PROJECTS;RANDOM+IDEAS;THINGS+THAT+PROBABLY+SHOULD+EXIST" />
-
-</div>
+## `05` — THE LAB
 
 <table>
 <tr>
-<td align="center">🌐<br><b>WEB</b><br><sub>Apps / Sites</sub></td>
-<td align="center">🛠️<br><b>TOOLS</b><br><sub>Utilities</sub></td>
-<td align="center">🎮<br><b>GAMES</b><br><sub>Browser</sub></td>
-<td align="center">🤖<br><b>BOTS</b><br><sub>Discord</sub></td>
-</tr>
-<tr>
-<td align="center">🧪<br><b>EDU</b><br><sub>Learning</sub></td>
-<td align="center">📊<br><b>DATA</b><br><sub>Analytics</sub></td>
-<td align="center">⚡<br><b>EXT</b><br><sub>Browser</sub></td>
-<td align="center">⚙️<br><b>SYSTEMS</b><br><sub>Backend</sub></td>
+<td align="center" width="25%">
+
+### WEB
+
+Websites
+Dashboards
+Web Apps
+Landing Pages
+
+</td>
+
+<td align="center" width="25%">
+
+### TOOLS
+
+Calculators
+Generators
+Utilities
+Developer Tools
+
+</td>
+
+<td align="center" width="25%">
+
+### EXPERIMENTS
+
+UI Experiments
+Browser Extensions
+Data Projects
+Prototypes
+
+</td>
+
+<td align="center" width="25%">
+
+### FUN
+
+Browser Games
+Discord Bots
+Automation
+Random Ideas
+
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-> `"wait... can I actually build this?"`
-
-**Usually the answer is yes.**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=1900&pause=700&color=555555&center=true&vCenter=true&width=750&lines=%22Can+I+build+this%3F%22;%22Probably.%22;%22Let's+find+out.%22" />
 
 </div>
 
 ---
 
-## `06` GITHUB ANALYTICS
+## `06` — GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=ARFINNO%20/%20ACTIVITY" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfinnoSeanchow&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
 
 <br>
 
@@ -245,144 +305,146 @@ An interactive chemistry platform focused on actually **calculating chemistry**,
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArfinnoSeanchow&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=ArfinnoSeanchow&theme=transparent&hide_border=true&mode=weekly" />
-
 </div>
 
 ---
 
-## `07` PAC-MAN MODE
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArfinnoSeanchow&theme=github" width="100%"/>
+## `07` — CONTRIBUTION SNAKE
 
-<br>
+<img src="https://raw.githubusercontent.com/ArfinnoSeanchow/ArfinnoSeanchow/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1500&pause=500&color=777777&center=true&vCenter=true&width=650&lines=collecting+commits...;feeding+the+snake...;keep+coding." />
 
 </div>
 
 ---
-
-## `08` DEVELOPER TERMINAL
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│  arfinno@github ~ $ whoami                                      │
-│                                                                  │
-│  arfinno                                                          │
-│                                                                  │
-│  arfinno@github ~ $ cat interests.txt                           │
-│                                                                  │
-│  frontend                                                         │
-│  ui/ux                                                            │
-│  developer-tools                                                  │
-│  backend                                                           │
-│  experiments                                                       │
-│  games                                                             │
-│                                                                  │
-│  arfinno@github ~ $ ./build-something                            │
-│                                                                  │
-│  [████████████████████████████████████████████████] 100%         │
-│                                                                  │
-│  ✓ compiled                                                       │
-│  ✓ tested                                                         │
-│  ✓ somehow works                                                  │
-│                                                                  │
-│  arfinno@github ~ $ _                                            │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `09` PRINCIPLES
-
-<div align="center">
 
 <table>
 <tr>
-<td align="center"><b>01</b><br><br>MAKE IT<br><b>SIMPLE.</b></td>
-<td align="center"><b>02</b><br><br>MAKE IT<br><b>WORK.</b></td>
-<td align="center"><b>03</b><br><br>MAKE IT<br><b>BETTER.</b></td>
-<td align="center"><b>04</b><br><br>THEN<br><b>SHIP IT.</b></td>
+<td width="50%" valign="top">
+
+## `08` — HOW I BUILD
+
+```text
+01  FIND AN IDEA
+
+02  MAKE IT SMALL
+
+03  BUILD THE CORE
+
+04  MAKE IT LOOK GOOD
+
+05  BREAK IT
+
+06  FIX IT
+
+07  SHIP IT
+
+08  MOVE TO THE NEXT IDEA
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## `09` — PRINCIPLES
+
+**01 — SIMPLE**
+
+Less unnecessary complexity.
+
+**02 — USEFUL**
+
+A project should solve something.
+
+**03 — INTERACTIVE**
+
+Software should feel good to use.
+
+**04 — SHIPPED**
+
+An unfinished masterpiece is still unfinished.
+
+</td>
 </tr>
 </table>
 
-<br>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=666666&center=true&vCenter=true&width=650&lines=good+design+%2B+good+logic+%3D+good+software;less+noise.+more+signal.;build+things+worth+using." />
+<div align="center">
+
+## `10` — GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=ArfinnoSeanchow&theme=flat&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%"/>
 
 </div>
 
 ---
 
-## `10` RANDOM FACTS
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## `11` — CURRENTLY LEARNING
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  001  Started with C++                                           │
-│  002  Learned Python                                             │
-│  003  Fell deeper into JavaScript                                │
-│  004  Started building with React / Next.js                      │
-│  005  Became obsessed with making tools                          │
-│  006  Built too many random experiments                          │
-│  007  Still breaking things                                      │
-│  008  Still learning                                              │
-│  009  Still shipping                                              │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+→ TypeScript
+→ Next.js
+→ Backend Architecture
+→ APIs
+→ Database Design
+→ Real-time Applications
+→ Better UI Systems
 ```
+
+</td>
+
+<td width="40%" valign="top">
+
+## `12` — STATUS
+
+```text
+BUILDING     ●
+LEARNING     ●
+EXPERIMENTS  ●
+DEBUGGING    ●●●
+COFFEE       ██████████
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `11` SOCIAL / CONTACT
-
 <div align="center">
 
-<a href="https://instagram.com/Arfinno88">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2300&pause=700&color=666666&center=true&vCenter=true&width=750&lines=design+with+intention.;code+with+precision.;ship+with+purpose." />
 
-<a href="https://linkedin.com/in/Arfinno%20Seanchow">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:arfinnoseanchow88@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ArfinnoSeanchow">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=2000&pause=700&color=111111&center=true&vCenter=true&width=800&lines=BUILD+SOMETHING.;BREAK+SOMETHING.;LEARN+SOMETHING.;BUILD+IT+BETTER." />
-
-<br><br>
+<br>
 
 ### `Simplicity in design. Precision in logic.`
 
 <br>
 
-<sub>Thanks for stopping by.</sub>
+<a href="https://instagram.com/Arfinno88">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Arfinno%20Seanchow">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arfinnoseanchow88@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Thanks for visiting.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=110&section=footer" width="100%"/>
-
-<!--
-
-                 ARFINNO SEANCHOW
-
-          BUILD  /  BREAK  /  LEARN  /  REBUILD
-
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=100&section=footer" width="100%"/>
